@@ -27,8 +27,8 @@ public class Rectangle {
 
         
         // Printing the perimeter and the area of the rectangle
-        System.out.println("Perimeter of rectangle is " + perimeter + " m");
-        System.out.println("Area of rectangle is " + area + " m2");
+        System.out.println("The Perimeter of the rectangle is " + perimeter + " m");
+        System.out.println("The Area of the rectangle is " + area + " m2");
 
 	}
 
